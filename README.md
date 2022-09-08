@@ -29,4 +29,6 @@
 ### (https://github.com/heosujinnn/java/commit/a5701ffd39aba1e2548bf1e8e1ff6cc610880610)
 :오버로딩과 오버라이딩
 
-
+# [jungsuk]
+### (https://github.com/heosujinnn/java/commit/d1694eabb4fc56646e4d6a5bcdaec7aa471cbe1f)
+: 자바의 정석 chapter6 연습문제 
