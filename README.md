@@ -32,3 +32,12 @@
 # [jungsuk]
 ### (https://github.com/heosujinnn/java/commit/d1694eabb4fc56646e4d6a5bcdaec7aa471cbe1f)
 : 자바의 정석 chapter6 연습문제 
+
+### (https://github.com/heosujinnn/java/commit/30346f8ffb38c3576d21128600ad09b5584480a2)
+: 접근제어자란?
+
+### (https://github.com/heosujinnn/java/commit/290288758622d9b21140ecc39856e2b986516241)
+: 캡슐화와 접근제어자
+
+### (https://github.com/heosujinnn/java/commit/d88169b9c7330056847258d9d8d7d4864f78c70c)
+: 메소드의 다형성-오버로딩
