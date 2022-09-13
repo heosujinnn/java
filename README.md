@@ -44,3 +44,6 @@
 
 ### (https://github.com/heosujinnn/java/commit/b6a11e92d88c8a2f043e71efab61fc2e22707dac)
 : 다형성
+
+### (https://github.com/heosujinnn/java/commit/24edde330d631ea2ab1389b1a5fe6e299e17e8c1)
+: 접근제어자 범위 테스트
